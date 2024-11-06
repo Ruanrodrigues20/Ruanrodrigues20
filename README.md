@@ -2,10 +2,8 @@
 
 ## **💻 Software Developer**
 
-My name's <strong>Ruan Rodrigues</strong>. I am a student on the course 
-of Computer Science at the Federal University of Campina
-Grande - UFCG. I'm always looking to improve my points 
-always weak and being able to demonstrate my potential.
+My name is Ruan Rodrigues. I am a Computer Science student at the Federal University of Campina Grande - UFCG. 
+I always try to improve my weaknesses and be able to demonstrate my potential.
 
 ## Contacts
 <a href="https://www.linkedin.com/in/ruan-rodrigues-317a40292/" target="_blank" rel="external">

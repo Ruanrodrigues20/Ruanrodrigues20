@@ -2,9 +2,12 @@
 
 ## **💻 Software Developer**
 
+<p style="text-align: justify;">
 I am studying Computer Science, with the aim of qualifying myself as an excellent professional in the field of Software Development. Although I'm still at the beginning of my journey, I have skills in Java and Python, and I'm always looking to improve my skills.
 I constantly seek to improve myself and find opportunities to demonstrate my competence by participating in challenging and revolutionary projects. I appreciate a cooperative and dynamic work environment, where I can acquire knowledge from other professionals and contribute to the growth of teams, through sharing knowledge and collective development.
 With solid skills in efficient communication, problem solving and teamwork, I am always improving my skills to become a complete professional capable of facing complex challenges in the technology sector.
+</p>
+
 ## Contacts
 <a href="https://www.linkedin.com/in/ruan-rodrigues-317a40292/" target="_blank" rel="external">
     <img 

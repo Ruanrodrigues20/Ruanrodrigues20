@@ -112,7 +112,9 @@ With solid skills in efficient communication, problem solving and teamwork, I am
     alt="GitHub Stats" 
     height="180" 
     style="padding-right: 8px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ruanrodrigues20&show_icons=true&theme=tokyonight&include_all_comits=true&locale=en" 
+    
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruanrodri&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5&show_icons=true&count_private=true&include_all_commits=true&token=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)
+
   />
 
 <img 

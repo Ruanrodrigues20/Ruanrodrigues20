@@ -1,6 +1,6 @@
 # 👨‍💻 Ruan Rodrigues
 
-## **💻 Software Developer**
+## **💻 Backend Developer**
 
 <p style="text-align: justify;">
 I am studying Computer Science, with the aim of qualifying myself as an excellent professional in the field of Software Development. Although I'm still at the beginning of my journey, I have skills in Java and Python, and I'm always looking to improve my skills.
